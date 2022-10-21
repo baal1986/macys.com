@@ -1,0 +1,2 @@
+<span data-auto="final-price">With offer $22.44 - 25.49</span>
+</div>
